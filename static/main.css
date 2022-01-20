@@ -1,0 +1,20 @@
+form.main-form{
+    border: solid;
+    border-width: thin;
+    padding: 20px;
+    margin: 50px;
+    margin-bottom: 5px;
+}
+button{
+    display:flex;
+}
+.forgot-pw{
+    padding-left: 200px;
+}
+.help-pw{
+    padding-right: 300px;
+}
+form.create-account{
+    margin-left: 500px;
+    margin-right: 500px;
+}

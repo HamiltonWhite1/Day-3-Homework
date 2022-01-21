@@ -17,4 +17,8 @@ button{
 form.create-account{
     margin-left: 500px;
     margin-right: 500px;
+    min-width: 500px;
+}
+.create-account-btn{
+    min-width: 390px;
 }
